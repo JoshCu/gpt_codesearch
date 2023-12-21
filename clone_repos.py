@@ -25,6 +25,11 @@ repo_list = [
     "https://github.com/CUAHSI/metadata-extractor",
     "https://github.com/CUAHSI/notebooks",
     "https://github.com/NOAA-OWP/ngen-cal.git"
+    "https://github.com/DOI-USGS/hyRefactor",
+    "https://github.com/mikejohnson51/nwmTools",
+    "https://github.com/mikejohnson51/hyaggregate",
+    "https://github.com/LynkerIntel/hfsubset/",
+    
     # Add more repository URLs here
 ]
 target_folder = "./repos"
